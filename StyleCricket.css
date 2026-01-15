@@ -1,0 +1,39 @@
+#crt{
+    font-size:100px;
+    font-style:italic;
+    text-align:center;
+}
+#rpara{
+    font-size:25px;
+}
+#vpara{
+    font-size:25px;
+}
+#hpara{
+    font-size:25px;
+}
+.image-row {
+  display: flex;
+  gap: 20px;
+}
+
+.img-card {
+  text-align: center;
+}
+
+.img-card img {  width: 486px;
+  height: 500px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 10px;
+  background-color: #000;
+}
+
+.img-card p {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #555;
+}
+.rohitshrma{
+    background-color:orange;
+}
